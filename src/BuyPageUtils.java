@@ -6,6 +6,11 @@ public class BuyPageUtils {
 
     }
 
+    // adding another method
+    public static void c(){
+
+    }
+
 
 
 }
